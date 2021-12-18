@@ -1,0 +1,14 @@
+body {
+    background-color: coral;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+#img_recognition {
+    background-color: royalblue;
+    color: lime;
+}
+
+#model_p{
+    font-family: sans-serif;
+}
